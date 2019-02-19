@@ -1,4 +1,4 @@
-# Faça muito mais com Data Science, C# e Rust
+# About me
 
 ### Frederico Gomes
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_linked_in-48.png)](https://www.linkedin.com/in/gomes-frederico/)
